@@ -169,16 +169,18 @@
         </h2>
         <!--Testimonials before and after pseudo elements-->
         <figure class="my-12">
-          <blocquote class="bg-teal-600 dark:bg-black pl-14 pr-8 py-12 rounded-3xl relative">
-            <p class="text-2xl sm:text-3xl text-left mt-2 text-white dark:text-slate-400 
-            before:content-['\201C'] before:font-serif before:absolute before:top-0 before:left-0 before:text-9xl before:text-white before:opacity-25 before:transform before:translate-x-2 before:translate-y-2 
-            after:content-['\201D'] after:font-serif after:absolute after:top-0 after:left-0 after:text-9xl after:text-white after:opacity-25 after:transform after:translate-x-2 after:translate-y-2">
-            Acme 
-            has always been there for me. 
-            Their Explorer rocket arrived in a wooden crate as expected. 
-            Life-long customer! A++ shopping experience.
-          </p>
-          </blocquote>
+          <blockquote class="relative rounded-3xl bg-teal-600 py-12 pl-14 pr-8 dark:bg-black">
+            <p
+              class="mt-2 text-left text-2xl text-white before:absolute before:top-0 before:left-0 before:translate-x-2 before:translate-y-2 before:transform before:font-serif before:text-9xl before:text-white before:opacity-25 before:content-['\201C'] 
+              after:absolute after:-bottom-20 after:right-0 after:-translate-x-2 after:-translate-y-2 after:transform after:font-serif after:text-9xl after:text-white after:opacity-25 after:content-['\201D'] dark:text-slate-400 sm:text-3xl">
+              Acme has always been there for me. Their Explorer rocket arrived
+              in a wooden crate as expected. Life-long customer! A++ shopping
+              experience.
+            </p>
+          </blockquote>
+          <figcaption class="mt-2 text-right text-xl italic text-slate-500 dark:text-slate-400 sm:text-2xl">
+            &#8212;Wile E. Coyote, Genius
+          </figcaption>
         </figure>
       </section>
 
