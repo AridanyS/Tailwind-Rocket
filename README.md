@@ -5,5 +5,8 @@ El objetivo principal es brindar información sobre los destinos espaciales disp
 
 El sitio web se diseñó utilizando Tailwind CSS, HTML y Javascript.
 
+![87984d69756cbc96550ef9d04c6c36bb_AdobeExpress](https://github.com/AridanyS/Tailwind-Rocket/assets/130782674/4198bdf0-0f44-48bf-81b4-cf4fc7a1792b)
+
+
 Este proyecto ha sido creado para practicar TailwindCSS con la guía del canal de youtube @DaveGrayTeachesCode.
-Tiene pequeños cambios del proyecto original con el fin de practicar lo dado en el curso.
+Realicé cambios en el proyecto original con el propósito de practicar los conceptos aprendidos durante el curso.
