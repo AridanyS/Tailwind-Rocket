@@ -9,5 +9,6 @@ El sitio web se desarrolló empleando una combinación de tecnologías como Tail
 ![Rocket-gif](https://github.com/AridanyS/Tailwind-Rocket/assets/130782674/188ae945-8e32-44f1-b1fc-f2ccf05c065d)
 
 
-Este proyecto ha sido creado para practicar TailwindCSS con la guía del canal de youtube [Dave Gray](https://youtu.be/pYaamz6AyvU)
-Realicé cambios en el proyecto original con el propósito de practicar los conceptos aprendidos durante el curso.
+este proyecto ha sido desarrollado con el objetivo de practicar y aplicar los conceptos aprendidos durante un curso de Tailwind CSS, proporcionado por el canal de YouTube de [Dave Gray](https://youtu.be/pYaamz6AyvU) 
+
+Se han realizado cambios en el proyecto original con el fin de consolidar los conocimientos adquiridos.
