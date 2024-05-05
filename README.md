@@ -1,5 +1,5 @@
 # Tailwind-Rocket
-[Tailwind-Rocket](https://64acb26702336d1a7221605d--sprightly-kataifi-24204e.netlify.app/) es un proyecto que consiste en el desarrollo de un sitio web para una empresa de viajes espaciales llamada Acme Rocket🚀
+[Tailwind-Rocket](https://sprightly-kataifi-24204e.netlify.app/) es un proyecto que consiste en el desarrollo de un sitio web para una empresa de viajes espaciales llamada Acme Rocket🚀
 
 El objetivo principal es brindar información sobre los destinos espaciales disponibles, testimonios de otros viajeros, apartado de contacto y apartado legal. 
 
